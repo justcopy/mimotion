@@ -1,5 +1,6 @@
 name: mimotion
 
+
 on:
   schedule:
     - cron: "35 10 * * *"
